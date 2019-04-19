@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-export const Layout = ({children}) => {
+const Layout = ({children}) => {
   // const hartToken = assets.playerTwoIcons.normalToken;
   return (
     <Fragment>
@@ -7,3 +7,5 @@ export const Layout = ({children}) => {
     </Fragment>  
   );
 } 
+
+export default Layout;

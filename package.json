@@ -19,7 +19,9 @@
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.2",
     "redux": "^4.0.1",
-    "typescript": "^3.4.4"
+    "surge": "^0.20.3",
+    "typescript": "^3.4.4",
+    "universal-analytics": "^0.4.20"
   },
   "devDependencies": {
     "prettier": "^1.17.0"
